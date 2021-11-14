@@ -40,4 +40,7 @@ sudo systemctl start mongod
 7. You can make request using browser or Postman.
 
 ## Credit:
-I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files are directly taken from https://github.com/learnwithsumit/chat-application .
+I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files are taken from https://github.com/learnwithsumit/chat-application .
+
+## Contact:
+Email: sakib.imran0909@gmail.com
