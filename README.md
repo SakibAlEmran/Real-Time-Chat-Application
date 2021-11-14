@@ -44,7 +44,7 @@ yarn start || npm start
 8. You can make request using browser to gel Html response(ejs view engine rendering) or Postman for json response.
 
 ## Credit:
-I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files(public(images, js, stylesheet), views) are taken from https://github.com/learnwithsumit/chat-application .
+I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files(public(images, js, stylesheet), views) are taken from the projects file. Playlist link: https://www.youtube.com/watch?v=xihtoTIy-ms&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM&index=30&ab_channel=LearnwithSumitBangladesh .
 
 ## Contact:
 Email: sakib.imran0909@gmail.com
