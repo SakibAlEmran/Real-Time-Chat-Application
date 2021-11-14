@@ -31,6 +31,7 @@ COOKIE_NAME,
 ```
 5. See package.json file and install all dependencies using npm or yarn
 6. Start the MongoDb database server
-```sudo systemctl start mongod
+```
+sudo systemctl start mongod
 ```
 7. You can make request using browser or Postman.
