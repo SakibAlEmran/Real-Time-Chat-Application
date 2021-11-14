@@ -21,7 +21,7 @@ git clone https://github.com/SakibAlEmran/Real-Time-Chat-Application.git
 cd Real-Time-Chat-Application
 ```
 3. Create directory: public/uploads and public/uploads/avatars
-4. create a .env file and assign the value. I m providing the env variable list:
+4. create a .env file and assign the value. Here is the list of the .env file variables:
 ```
 APP_NAME, 
 APP_URL,
@@ -44,7 +44,7 @@ yarn start || npm start
 8. You can make request using browser to gel Html response(ejs view engine rendering) or Postman for json response.
 
 ## Credit:
-I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files are taken from https://github.com/learnwithsumit/chat-application .
+I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files(public(images, js, stylesheet), views) are taken from https://github.com/learnwithsumit/chat-application .
 
 ## Contact:
 Email: sakib.imran0909@gmail.com
