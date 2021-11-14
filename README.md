@@ -37,7 +37,11 @@ COOKIE_NAME,
 ```
 sudo systemctl start mongod
 ```
-7. You can make request using browser or Postman.
+7. start the server
+```
+yarn start || npm start
+```
+8. You can make request using browser to gel Html response(ejs view engine rendering) or Postman for json response.
 
 ## Credit:
 I have followed a youtube tutorial playlist by Sumit Saha to do this project. Some of the files are taken from https://github.com/learnwithsumit/chat-application .
