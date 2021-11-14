@@ -17,6 +17,9 @@ You should have NodeJs, ExpressJs and MongoDB installed in your local machine.
 git clone https://github.com/SakibAlEmran/Real-Time-Chat-Application.git
 ```
 2. Go to working directory
+```
+cd Real-Time-Chat-Application
+```
 3. Create directory: public/uploads and public/uploads/avatars
 4. create a .env file and assign the value. I m providing the env variable list:
 ```
