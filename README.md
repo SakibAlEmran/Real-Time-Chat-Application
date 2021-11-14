@@ -6,7 +6,7 @@ There are 3 endpoints for this project.
 1. User Handler
 2. Login Handler
 3. Inbox handler
-All the endpoints are protected by using JWT authorization. 
+All the endpoints are protected by using JWT authorization.
 
 ## Prerequisites
 You should have NodeJs, ExpressJs and MongoDB installed in your local machine.
@@ -16,3 +16,21 @@ You should have NodeJs, ExpressJs and MongoDB installed in your local machine.
 ```
 git clone https://github.com/SakibAlEmran/Real-Time-Chat-Application.git
 ```
+2. Go to working directory
+3. Create directory: public/uploads and public/uploads/avatars
+4. create a .env file and assign the value. I m providing the env variable list:
+```
+APP_NAME, 
+APP_URL,
+PORT,
+MONGO_CONNECTION_STRING,
+COOKIE_SECRET,
+JWT_SECRET,
+JWT_EXPIRY,
+COOKIE_NAME,
+```
+5. See package.json file and install all dependencies using npm or yarn
+6. Start the MongoDb database server
+```sudo systemctl start mongod
+```
+7. You can make request using browser or Postman.
